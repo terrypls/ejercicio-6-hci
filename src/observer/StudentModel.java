@@ -1,8 +1,6 @@
 package observer;
 
 import java.util.Observable;
-import java.util.Observer;
-
 import java.util.HashMap;
 
 class StudentModel extends Observable {
